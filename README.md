@@ -18,13 +18,13 @@ Databases
 ---------
 1. IP2Proxy BIN Database
 This library requires IP2Proxy BIN database to check if an IP address is a proxy. The data file can be downloaded at
-* Free IP2Proxy BIN Data: http://lite.ip2location.com
-* Commercial IP2Proxy BIN Data: http://www.ip2location.com/proxy-database
+* Free IP2Proxy BIN Data: https://lite.ip2location.com
+* Commercial IP2Proxy BIN Data: https://www.ip2location.com/database/ip2proxy
 
   
 2. IP2Location BIN Database
 This library requires IP2Location BIN database to retrieve the latitude and longitude of an IP address so that it can be integrated with Google Map for map display.The data file can be downloaded at
-* Free IP2Location BIN Data: http://lite.ip2location.com
-* Commercial IP2Location BIN Data: http://www.ip2location.com/databases
+* Free IP2Location BIN Data: https://lite.ip2location.com
+* Commercial IP2Location BIN Data: https://www.ip2location.com/database/ip2location
   
     
